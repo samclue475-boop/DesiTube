@@ -1,0 +1,18 @@
+{
+  "name": "DesiTube - Indian Video & Shorts",
+  "short_name": "DesiTube",
+  "description": "Watch trending Indian videos, upload content, and earn ₹780+ creator rewards.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
